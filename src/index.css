@@ -6,8 +6,19 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+a{
+  text-decoration: none;
+}
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+img{
+  width: 100%;
+  min-height: 50%;
+}
+
+h3{
+  margin: 0;
+  font-size: 16px;
+}
+p{
+  margin: 0;
 }

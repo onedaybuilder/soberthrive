@@ -21,6 +21,8 @@ const Navbar = () => {
         color: black;
         text-decoration: none;
     `;
+
+   
     return ( 
         <Navbar>
             <Ul>
